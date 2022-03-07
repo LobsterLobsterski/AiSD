@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646668526 source:f:\kody\insertionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
