@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647876473 source:f:\kody\aisd\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
