@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648481645 source:f:\kody\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+
