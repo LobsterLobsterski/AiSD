@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650900045 source:f:\kody\aisd\binarysearch\main.c
+	<stdio.h>
+	<stdlib.h>
+
