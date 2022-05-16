@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652720018 source:f:\kody\aisd\dikstra\main.c
+	<stdio.h>
+	<conio.h>
+
