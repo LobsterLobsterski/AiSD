@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653326563 source:f:\kody\aisd\prims\main.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
