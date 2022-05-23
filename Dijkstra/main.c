@@ -9,13 +9,6 @@ void dijkstra(int G[MAX][MAX], int n, int startNode)
     int cost[MAX][MAX], distance[MAX], predecessors[n];
     int visited[MAX], count, minDistance, nextNode, i, j;
 
-    for(i=0;i<n;i++){
-        for(j=0;j<n;j++){
-            printf("%d",G[i][j]);
-        }
-        printf("\n");
-    }
-
     //predecessors[] stores the predecessor of each node
     //distance[] holds the distances to all vertices
     //count holds the number of nodes seen so far
